@@ -9,10 +9,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Built with](#built-with)
 - [Author](#author)
 
-### Screenshot
-
-![](assets\images\Recipeshot.png)
-
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
@@ -25,5 +21,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Dominic Buck](https://www.your-site.com)
+- Github - [Dominic Buck](https://github.com/DomBuckDev)
 - Frontend Mentor - [@DomBuckDev](https://www.frontendmentor.io/profile/DomBuckDev)
